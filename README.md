@@ -19,7 +19,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable data pipeli
 ## My Recent Projects:
 
 ### Project 1: sparkIngestion
-- https://github.com/ChauahanVikash
+- [https://github.com/ChauahanVikash](https://github.com/ChVikash/sparkIngestion)
+- [https://github.com/ChVikash/SMAPI](https://github.com/ChVikash/SMAPI)
 
 ## Get in Touch 📫
 
