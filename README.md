@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable data pipeli
 
 ### Project 1: sparkIngestion
 - [https://github.com/ChauahanVikash](https://github.com/ChVikash/sparkIngestion)
+
+### Project 2: SMAPI
 - [https://github.com/ChVikash/SMAPI](https://github.com/ChVikash/SMAPI)
 
 ## Get in Touch 📫
