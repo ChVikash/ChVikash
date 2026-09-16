@@ -16,7 +16,8 @@ I design enterprise-scale Azure data platforms using Microsoft Fabric, Azure Dat
 
 - **Cloud & Platforms:** Azure Databricks, Microsoft Fabric, Azure Data Platform
 - **Languages & Engines:** Python, Spark (PySpark), Spark SQL, SQL, NoSQL (MongoDB / Cosmos DB)
-- **Architecture:** Lakehouse, ETL/ELT, Star & Snowflake Schema, Medallion Architecture, Batch and Streaming
+- **Architecture:** Lakehouse, ETL/ELT, Star & Snowflake Schema, Medallion Architecture, Batch and Real-Time Streaming
+- **Streaming & APIs:** Kafka, real-time streaming pipelines, FastAPI
 - **Practices:** Data Governance, Performance Tuning, Solution Architecture, Stakeholder Management
 - **DevOps:** Azure DevOps, CI/CD, Agile Scrum
 
