@@ -1,14 +1,15 @@
-# Hi, I'm Vikash Kumar Chauhan — Specialist Data Engineer 🚀 with 5+ years of experience
+# Hi, I'm Vikash Kumar Chauhan — Lead Consultant, Data Engineering 🚀 with 5+ years of experience
 
 **Azure Data Platform | Microsoft Fabric | Azure Databricks**
 
 I design enterprise-scale Azure data platforms using Microsoft Fabric, Azure Databricks, Azure Data Factory, PySpark, Python and SQL. My work spans Medallion Lakehouse architectures, ETL/ELT frameworks, healthcare data platforms, data governance, performance and cost optimization, and leading distributed engineering teams.
 
-- 🔭 I'm currently a **Specialist Data Engineer at Essilor India Pvt. Ltd.**, architecting a centralized Azure data platform that supports 15+ Data Science teams and 2 BI teams
-- 👥 I lead a cross-country team of five Data Engineers, driving architecture decisions, delivery planning and production deployments
+- 🔭 I'm currently a **Lead Consultant – Data Engineering at Lagozon Technologies Pvt. Ltd.**
+- 🏗️ Previously Specialist Data Engineer at **EssilorLuxottica**, where I architected a centralized Azure data platform serving 15+ Data Science teams and 2 BI teams
+- 👥 I've led cross-country engineering teams, driving architecture decisions, delivery planning and production deployments
 - 🏥 I designed a HITRUST-compliant healthcare lakehouse with RBAC, governance policies and secure infrastructure
-- 🤝 I'm available for freelancing
-- 🌱 I'm currently learning Kafka, Airflow and FastAPI
+- 🌱 Currently going deeper on **Microsoft Fabric, Snowflake and BigQuery**
+- 🎯 Long-term goal: **Databricks Solutions Architect Champion** and **Azure Solutions Architect**
 - 💬 Ask me about **Python, SQL, Spark, Microsoft Fabric and Azure Data Engineering**
 
 ## Core Competencies
@@ -21,7 +22,8 @@ I design enterprise-scale Azure data platforms using Microsoft Fabric, Azure Dat
 
 ## Experience
 
-- **Specialist Data Engineer** — Essilor India Pvt. Ltd. *(Sep 2024 – Present)*
+- **Lead Consultant – Data Engineering** — Lagozon Technologies Pvt. Ltd. *(Sep 2026 – Present)*
+- **Specialist Data Engineer** — EssilorLuxottica (Essilor India Pvt. Ltd.) *(Sep 2024 – Sep 2026)*
 - **Consultant – Data Engineer** — Lagozon Technologies Pvt. Ltd. *(Apr 2023 – Sep 2024)*
 - **Data Engineer** — Capgemini Technology Services India Ltd. *(Oct 2021 – Mar 2023)*
 
