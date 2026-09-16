@@ -1,15 +1,38 @@
-# Hello, I'm Vikash Chauhan - Azure Data Engineer 🚀 with 3YoE
+# Hi, I'm Vikash Kumar Chauhan — Lead Consultant, Data Engineering 🚀 with 5+ years of experience
 
-Welcome to my GitHub profile! I'm passionate about building scalable data pipelines, optimizing data workflows, and leveraging data to drive insights. Here's a glimpse of what I do:
+**Azure Data Platform | Microsoft Fabric | Azure Databricks**
 
-- 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">Lagozon Technologies Private Limited
+I design enterprise-scale Azure data platforms using Microsoft Fabric, Azure Databricks, Azure Data Factory, PySpark, Python and SQL. My work spans Medallion Lakehouse architectures, ETL/ELT frameworks, healthcare data platforms, data governance, performance and cost optimization, and leading distributed engineering teams.
 
-- 🤝 I’m available for freelancing.
+- 🔭 I'm currently a **Lead Consultant – Data Engineering at Lagozon Technologies Pvt. Ltd.**
+- 🏗️ Previously Specialist Data Engineer at **EssilorLuxottica**, where I architected a centralized Azure data platform serving 15+ Data Science teams and 2 BI teams
+- 👥 I've led cross-country engineering teams, driving architecture decisions, delivery planning and production deployments
+- 🏥 I designed a HITRUST-compliant healthcare lakehouse with RBAC, governance policies and secure infrastructure
+- 🌱 Currently going deeper on **Microsoft Fabric, Snowflake and BigQuery**
+- 🎯 Long-term goal: **Databricks Solutions Architect Champion** and **Azure Solutions Architect**
+- 💬 Ask me about **Python, SQL, Spark, Microsoft Fabric and Azure Data Engineering**
 
-- 🌱 I’m currently learning Kafka, Airflow and FastAPI
+## Core Competencies
 
-- 💬 Ask me about **Python,SQL,Spark&AzureDataEngineeringResources**
-- 
+- **Cloud & Platforms:** Azure Databricks, Microsoft Fabric, Azure Data Platform
+- **Languages & Engines:** Python, Spark (PySpark), Spark SQL, SQL, NoSQL (MongoDB / Cosmos DB)
+- **Architecture:** Lakehouse, ETL/ELT, Star & Snowflake Schema, Medallion Architecture, Batch and Real-Time Streaming
+- **Streaming & APIs:** Kafka, real-time streaming pipelines, FastAPI
+- **Practices:** Data Governance, Performance Tuning, Solution Architecture, Stakeholder Management
+- **DevOps:** Azure DevOps, CI/CD, Agile Scrum
+
+## Experience
+
+- **Lead Consultant – Data Engineering** — Lagozon Technologies Pvt. Ltd. *(Sep 2026 – Present)*
+- **Specialist Data Engineer** — EssilorLuxottica *(Sep 2024 – Sep 2026)*
+- **Consultant – Data Engineer** — Lagozon Technologies Pvt. Ltd. *(Apr 2023 – Sep 2024)*
+- **Data Engineer** — Capgemini Technology Services India Ltd. *(Oct 2021 – Mar 2023)*
+
+## Certifications
+
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure for Data Engineering
+- Data Storage in Microsoft Azure
 
 ## Data Engineering in Action:
 
