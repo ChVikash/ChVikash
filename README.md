@@ -1,11 +1,10 @@
-# Hi, I'm Vikash Kumar Chauhan — Lead Consultant, Data Engineering 🚀 with 5+ years of experience
+# Hi, I'm Vikash Kumar Chauhan  Data Engineer 🚀 with 5+ years of experience
 
 **Azure Data Platform | Microsoft Fabric | Azure Databricks**
 
 I design enterprise-scale Azure data platforms using Microsoft Fabric, Azure Databricks, Azure Data Factory, PySpark, Python and SQL. My work spans Medallion Lakehouse architectures, ETL/ELT frameworks, healthcare data platforms, data governance, performance and cost optimization, and leading distributed engineering teams.
 
-- 🔭 I'm currently a **Lead Consultant – Data Engineering at Lagozon Technologies Pvt. Ltd.**
-- 🏗️ Previously Specialist Data Engineer at **EssilorLuxottica**, where I architected a centralized Azure data platform serving 15+ Data Science teams and 2 BI teams
+- 🔭 I was Specialist Data Engineer at **EssilorLuxottica**, where I architected a centralized Azure data platform serving 15+ Data Science teams and 2 BI teams
 - 👥 I've led cross-country engineering teams, driving architecture decisions, delivery planning and production deployments
 - 🏥 I designed a HITRUST-compliant healthcare lakehouse with RBAC, governance policies and secure infrastructure
 - 🌱 Currently going deeper on **Microsoft Fabric, Snowflake and BigQuery**
