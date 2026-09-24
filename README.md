@@ -22,7 +22,6 @@ I design enterprise-scale Azure data platforms using Microsoft Fabric, Azure Dat
 
 ## Experience
 
-- **Lead Consultant – Data Engineering** — Lagozon Technologies Pvt. Ltd. *(Sep 2026 – Present)*
 - **Specialist Data Engineer** — EssilorLuxottica *(Sep 2024 – Sep 2026)*
 - **Consultant – Data Engineer** — Lagozon Technologies Pvt. Ltd. *(Apr 2023 – Sep 2024)*
 - **Data Engineer** — Capgemini Technology Services India Ltd. *(Oct 2021 – Mar 2023)*
